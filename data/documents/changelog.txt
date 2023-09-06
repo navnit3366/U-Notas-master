@@ -1,0 +1,85 @@
+                             CHANGELOG
+			
+		
+=> Ver 0.x:
+
+	[0.1]
+	      Creación de objeto browser.
+	      Conexión a u-pasaporte via consola.
+	      Se conecta al formulario y se manda un submit.
+	      Manejo de errores al manipular browser.
+	      Se corrige el header original.
+	      
+	[0.2]
+	      Creación del entorno gráfico.
+	      Box de inicio de sesión.
+	      Los errores se imprimen en alertas pop-up mediante
+	      <errors.py>.
+	      Los string del gui se cargan desde langs <programa
+	      propio de manejo de idiomas>.
+	      Creación del archivo <lib.py> y <textures.py>.
+	      Se omite la compilación de las librerías.
+	      Se ordenan los archivos en directorios.
+	      Las librerías externas se almacenan en /lib.
+	      Manejos de errores al iniciar sesión.
+	      Creción de funciones de ayuda.
+	      Creación de archivo <analysis.py> para análisis
+              del código html.
+
+	[0.3]
+	      Corrección ortográfica de comentarios.
+	      Se agrega el logo de la Universidad de Chile
+	      al fondo.
+	      Correción en la posición de los botones del box
+	      de inicio de sesión.
+	      El texto del campo <contraseña> se ofusca usando *.
+	      Se maneja el evento de salida terminando la
+	      ejecución del script via -taskkill.
+ 	      Creación del cierre de sesión.
+	      Corrección al eliminar las cookies.
+
+	[0.4]
+	      Creación del box de cursos del usuario.
+	      Se corrige fondo de inicio de sesión <alineación>.
+	      Se corrige fondo de box.
+	      Se crean funciones analizadoras del código html.
+	      Se cargan los cursos del usuario.
+	      Se imprimen más estados en la consola.
+	      Al iniciar el programa se muestra un arte ascii.
+	      Se corrigen errores al iniciar la sesión.
+
+	[0.5]
+	      Correcciones visuales generales.
+	      Se borran archivos no usados.
+	      Se corrigen comentarios.
+	      Eliminación de variables sin usar.
+              Creación del box de archivos de los cursos.
+	      Configuración de <langs>.
+	      Se corrigen errores en el objeto <browser>.
+	      Los errores se ordenan según orden alfabético.
+	      Eliminación de directorios sin usar.
+	      Se agregan iconos a ventanas emergentes.
+	      Se agregan eventos <Return> a los entry del
+	      inicio de sesión.
+	      Se agrega la posibilidad de mandar string a los
+	      diálogos de error.
+	      Al iniciar sesión se destruyen todos los elementos
+	      anteriores.
+
+	[0.6]
+	      Corrección en el fondo de logueo y el de los cursos.
+	      Corrección de sombras.
+	      Corrección de errores al cargar cursos.
+	      Corrección de errores al iniciar sesión.
+	      Corrección de errores al cargar un idioma.
+	      Creación del formulario de búsqueda.
+	      Creación de los botones de filtros.
+	      Modificación de colores en la ventana.
+	      Corrección de errores al definir el foco en el
+	      programa.
+
+	[0.7]
+	      Nueva funcionalidad: comprobación de actualizaciones.
+	      Se actualiza código en general.
+	      Carga de cursos: se crea la ventana de herramientas.
+	      Buscar: se agrega recuadro de búsqueda.

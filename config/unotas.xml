@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\Pablo\Workspace\U-Notas\config\unotas.jar</jar>
+  <outfile>U-Notas.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>C:\Users\Pablo\Workspace\U-Notas\data\images\icons\ucursos.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.0.0</fileVersion>
+    <txtFileVersion>1.0.0.0</txtFileVersion>
+    <fileDescription>Permite revisar las notas de U-Cursos, calcular notas finales, estimar notas de exención y de exámenes, exportar notas a excel, etc.</fileDescription>
+    <copyright>GNU</copyright>
+    <productVersion>1.0.0.0</productVersion>
+    <txtProductVersion>1.0.0.0</txtProductVersion>
+    <productName>U-Notas</productName>
+    <companyName>Pablo Pizarro</companyName>
+    <internalName>Pablo Pizarro</internalName>
+    <originalFilename>U-Notas.exe</originalFilename>
+  </versionInfo>
+</launch4jConfig>
